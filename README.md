@@ -25,7 +25,7 @@ I'm a researcher at the University of Edinburgh passionate about creating artifi
 ## 🛠️ Language and Tools
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgkanias&layout=compact&theme=gotham)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgkanias&layout=compact&theme=gotham)
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="80" height="80"/>&nbsp;
